@@ -1,0 +1,31 @@
+vehicle_type_id,body_type,make,model
+1,Car,Chevrolet,Corvette
+2,SUV,Chevrolet,Blazer
+3,SUV,Mazda,CX-5
+4,Car,Nissan,Altima
+5,Truck,Chevrolet,Silverado
+6,SUV,Mazda,CX-5
+7,Truck,Ford,F-250
+8,Car,Volkswagen,Passat
+9,Car,Mazda,CX-9
+10,Car,Ford,Fusion
+11,SUV,Ford,EcoSport
+12,Car,Nissan,Maxima
+13,SUV,Chevrolet,Blazer
+14,Truck,Nissan,Titan
+15,Van,Ford,Transit-150 Cargo
+16,Car,Ford,Fusion
+17,Car,Volkswagen,Passat
+18,Car,Nissan,Maxima
+19,Car,Chevrolet,Corvette
+20,SUV,Volkswagen,Atlas
+21,Truck,Nissan,Titan
+22,Car,Nissan,Maxima
+23,Car,Mazda,MX-5 Miata
+24,Truck,Chevrolet,Silverado
+25,Car,Nissan,Altima
+26,Car,Volkswagen,Beetle
+27,SUV,Volkswagen,Atlas
+28,Truck,Ford,F-250
+29,Van,Ford,Transit-150 Cargo
+30,Van,Ford,Transit-150 Cargo
